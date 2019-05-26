@@ -61,7 +61,7 @@ public class ServicesApplicationTests {
     }
 
     @Test
-    public void testServiceDao() {
+    public void testCustomerRestController() {
         Iterable<Service> services = serRepo.findAll();
         Assert.assertNotNull(services);
         Iterable<Customer> customers = cusRepo.findAll();

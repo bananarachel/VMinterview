@@ -10,7 +10,7 @@ import java.util.concurrent.Executors;
 
 public class TestMyIOQueue {
     @Test
-    public void testPainterPool() throws Exception {
+    public void testReaderAndWriterOnIOQueue() throws Exception {
         int cap = 5;
         IOQueue<String> queue = new MyIOQueue<>(cap);
         //unlimited queue, for test purpose

@@ -1,98 +1,90 @@
-Writer Mike starts writing: 
 Writer John starts writing: 
-Writer Mike is generating 
+Writer Mike starts writing: 
 Writer John is generating 
-Writer Mike writing ：Mike1
 Writer Mike is generating 
 Writer John writing ：John1
 Writer John is generating 
+Writer Mike writing ：Mike1
+Writer Mike is generating 
 Writer Mike writing ：Mike2
+Writer Mike is generating 
+Writer Mike writing ：Mike3
 Writer Mike is generating 
 Writer John writing ：John2
 Writer John is generating 
+Writer Mike writing ：Mike4
 Writer John writing ：John3
-Writer John is generating 
-Writer Mike writing ：Mike3
-Writer John writing ：John4
-Reader Sherry started
 Reader Jane started
-Reader Jane fetching 
+Reader Sherry started
 Reader Sherry fetching 
+Reader Jane fetching 
+Writer Mike is generating 
 Reader Sherry fetched：John1
 Reader Jane fetched：Mike1
-Writer Mike is generating 
 Writer John is generating 
+Reader Jane fetching 
+Reader Jane fetched：Mike2
+Reader Jane fetching 
+Reader Jane fetched：Mike3
 Reader Sherry fetching 
-Reader Sherry fetched：Mike2
+Reader Sherry fetched：John2
+Writer John writing ：John4
+Writer John is generating 
+Writer Mike writing ：Mike5
+Writer Mike is generating 
+Reader Jane fetching 
+Reader Jane fetched：Mike4
+Reader Sherry fetching 
+Reader Sherry fetched：John3
+Reader Sherry fetching 
+Reader Sherry fetched：John4
 Writer John writing ：John5
 Writer John is generating 
 Reader Jane fetching 
-Reader Jane fetched：John2
-Writer Mike writing ：Mike4
+Reader Jane fetched：Mike5
+Writer Mike writing ：Mike6
 Writer Mike is generating 
-Reader Sherry fetching 
-Reader Sherry fetched：John3
-Reader Jane fetching 
-Reader Jane fetched：Mike3
-Reader Jane fetching 
-Reader Jane fetched：John4
 Writer John writing ：John6
 Writer John is generating 
 Reader Sherry fetching 
 Reader Sherry fetched：John5
 Reader Jane fetching 
-Reader Jane fetched：Mike4
-Writer Mike writing ：Mike5
+Reader Jane fetched：Mike6
+Writer Mike writing ：Mike7
 Writer Mike is generating 
+Writer John writing ：John7
+Writer John is generating 
 Reader Jane fetching 
 Reader Jane fetched：John6
 Reader Sherry fetching 
-Reader Sherry fetched：Mike5
-Writer John writing ：John7
-Writer John is generating 
+Reader Sherry fetched：Mike7
 Writer John writing ：John8
 Writer John is generating 
-Writer John writing ：John9
-Writer John is generating 
-Writer Mike writing ：Mike6
-Writer Mike is generating 
 Reader Jane fetching 
 Reader Jane fetched：John7
+Writer Mike writing ：Mike8
+Writer Mike is generating 
 Reader Sherry fetching 
 Reader Sherry fetched：John8
+Reader Sherry fetching 
+Reader Sherry fetched：Mike8
+Writer John writing ：John9
+Writer John is generating 
 Writer John writing ：John10
 Writer John is generating 
 Reader Jane fetching 
 Reader Jane fetched：John9
 Writer John writing ：John11
 Writer John is generating 
-Reader Jane fetching 
-Reader Jane fetched：Mike6
-Writer Mike writing ：Mike7
+Writer Mike writing ：Mike9
 Writer Mike is generating 
 Reader Sherry fetching 
 Reader Sherry fetched：John10
-Writer Mike writing ：Mike8
+Writer Mike writing ：Mike10
 Writer Mike is generating 
 Reader Jane fetching 
 Reader Jane fetched：John11
 Writer John writing ：John12
 Writer John is generating 
-Reader Jane fetching 
-Reader Jane fetched：Mike7
-Reader Sherry fetching 
-Reader Sherry fetched：Mike8
 Writer John writing ：John13
 Writer John is generating 
-Reader Sherry fetching 
-Reader Sherry fetched：John12
-Writer Mike writing ：Mike9
-Writer Mike is generating 
-Reader Sherry fetching 
-Reader Sherry fetched：John13
-Reader Sherry fetching 
-Reader Sherry fetched：Mike9
-Reader Jane fetching 
-Writer Mike writing ：Mike10
-Writer Mike is generating 
-Reader Jane fetched：Mike10
