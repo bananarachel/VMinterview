@@ -1,0 +1,6 @@
+rootProject.name = 'Homework'
+include 'Painting'
+include 'MergeCollection'
+include 'ReaderAndWriter'
+include 'services'
+

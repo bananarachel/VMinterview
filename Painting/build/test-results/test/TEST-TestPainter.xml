@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPainter" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-26T10:17:50" hostname="liqiandeMacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testPainterPool" classname="TestPainter" time="0.005"/>
+  <system-out><![CDATA[Before: We have 0 paintings.
+Draw a Circle
+After: We have 1 paintings
+Before: We have 1 paintings.
+Draw a squareSquare
+After: We have 2 paintings
+Before: We have 2 paintings.
+Draw a lineLine
+After: We have 3 paintings
+Before: We have 3 paintings.
+Draw Nothing
+After: We have 3 paintings
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

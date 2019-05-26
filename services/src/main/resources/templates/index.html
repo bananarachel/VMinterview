@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Orders</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/ui-darkness/jquery-ui.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+</head>
+<body>
+
+<table border="1">
+    <thead>
+    <tr>
+        <td>
+            id
+        </td>
+        <td>
+            name
+        </td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="customer:${customers}">
+        <td th:text = "${customer.id}">
+
+        </td>
+        <td>
+            <a th:text="${customer.name}" th:href = "@{subscribes}">
+
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
