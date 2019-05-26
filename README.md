@@ -14,9 +14,13 @@ allows user to fetch the painter to draw a certain shape. Basically, it is a pai
 ### Test : TestPainter
 
 ## Project Module: services
-### Schema design
-### RestApi 
 SpringBoot and JPA based. 
+### Schema design
+Table customer
+Table service
+Table subscribe
+
+### RestApi 
 I have not implemented ui for this project. Following restApi are provided to fullfill the requirements. 
 Overall they are provided from user view, not admin view.
 
